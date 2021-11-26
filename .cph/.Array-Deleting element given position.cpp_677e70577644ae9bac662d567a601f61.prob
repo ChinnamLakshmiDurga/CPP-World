@@ -1,0 +1,1 @@
+{"name":"Local: Array-Deleting element given position","url":"c:\\Users\\Dell\\Desktop\\C++\\Array-Deleting element given position.cpp","tests":[{"id":1634574925534,"input":"5\n1 3 6 8 2\n1","output":"1 6 8 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Array-Deleting element given position.cpp","group":"local","local":true}

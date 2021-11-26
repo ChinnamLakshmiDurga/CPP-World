@@ -1,0 +1,1 @@
+{"name":"Local: Array-Longest Arithmetic subarray","url":"c:\\Users\\Dell\\Desktop\\C++\\Array-Longest Arithmetic subarray.cpp","tests":[{"id":1634544099271,"input":"7\n10 7 4 6 8 10 12","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Array-Longest Arithmetic subarray.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Selection_sort","url":"c:\\Users\\Dell\\Desktop\\C++\\Selection_sort.cpp","tests":[{"id":1634365734257,"input":"5\n6 7 3 2 9","output":"2 3 6 7 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Selection_sort.cpp","group":"local","local":true}

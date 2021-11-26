@@ -1,0 +1,1 @@
+{"name":"Local: Count Inversion - Using merge sort","url":"c:\\Users\\Dell\\Desktop\\C++\\Count Inversion - Using merge sort.cpp","tests":[{"id":1636050375773,"input":"8\n3 5 6 9 1 2 7 8","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Count Inversion - Using merge sort.cpp","group":"local","local":true}

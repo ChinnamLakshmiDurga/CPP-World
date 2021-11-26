@@ -1,0 +1,1 @@
+{"name":"Local: Array - Max CIRCULAR sub-array sum","url":"c:\\Users\\Dell\\Desktop\\C++\\Array - Max CIRCULAR sub-array sum.cpp","tests":[{"id":1634621456606,"input":"7\n4 -4 6 -6 10 -11 12","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Array - Max CIRCULAR sub-array sum.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Strings-to Lower case(Using sort)","url":"c:\\Users\\Dell\\Desktop\\C++\\Strings-to Lower case(Using sort).cpp","tests":[{"id":1635152499586,"input":"ABCDEFG","output":"abcdefg"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Strings-to Lower case(Using sort).cpp","group":"local","local":true}

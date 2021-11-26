@@ -1,0 +1,1 @@
+{"name":"Local: Array - Deleting an element","url":"c:\\Users\\Dell\\Desktop\\C++\\Array - Deleting an element.cpp","tests":[{"id":1634573548675,"input":"6\n1 4 2 8 9 6\n2","output":"1 4 8 9 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Array - Deleting an element.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Array-Record breaker","url":"c:\\Users\\Dell\\Desktop\\C++\\Array-Record breaker.cpp","tests":[{"id":1634545207767,"input":"8\n1 2 0 7 2 0 2 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Array-Record breaker.cpp","group":"local","local":true}

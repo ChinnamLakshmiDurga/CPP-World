@@ -1,0 +1,1 @@
+{"name":"Local: Recursion - Sorted Array or not","url":"c:\\Users\\Dell\\Desktop\\C++\\Recursion - Sorted Array or not.cpp","tests":[{"id":1635356119205,"input":"4\n1 3 5 0","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Recursion - Sorted Array or not.cpp","group":"local","local":true}

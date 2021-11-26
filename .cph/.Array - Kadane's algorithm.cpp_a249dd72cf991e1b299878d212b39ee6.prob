@@ -1,0 +1,1 @@
+{"name":"Local: Array - Kadane's algorithm","url":"c:\\Users\\Dell\\Desktop\\C++\\Array - Kadane's algorithm.cpp","tests":[{"id":1634619338711,"input":"5\n-1 4 -6 9 -4","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Array - Kadane's algorithm.cpp","group":"local","local":true}

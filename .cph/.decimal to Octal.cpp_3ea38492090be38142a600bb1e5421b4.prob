@@ -1,0 +1,1 @@
+{"name":"Local: decimal to Octal","url":"c:\\Users\\Dell\\Desktop\\C++\\decimal to Octal.cpp","tests":[{"id":1634137448522,"input":"100","output":"144"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\decimal to Octal.cpp","group":"local","local":true}

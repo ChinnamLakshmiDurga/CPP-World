@@ -1,0 +1,1 @@
+{"name":"Local: Array-Duplicate","url":"c:\\Users\\Dell\\Desktop\\C++\\Array-Duplicate.cpp","tests":[{"id":1635249464606,"input":"4\n1 2 2 3 3 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Array-Duplicate.cpp","group":"local","local":true}

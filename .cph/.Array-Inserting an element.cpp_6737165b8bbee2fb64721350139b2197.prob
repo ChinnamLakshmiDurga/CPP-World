@@ -1,0 +1,1 @@
+{"name":"Local: Array-Inserting an element","url":"c:\\Users\\Dell\\Desktop\\C++\\Array-Inserting an element.cpp","tests":[{"id":1634571886445,"input":"5\n1 4 0 2 8\n5\n3","output":"1 4 0 5 2 8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\C++\\Array-Inserting an element.cpp","group":"local","local":true}
